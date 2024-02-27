@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+
 import React from 'react'
 import orders from '../assets/images/icons/icon1.png'
 import orders1 from '../assets/images/icons/icon2.png'

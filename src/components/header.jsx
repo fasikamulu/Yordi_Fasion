@@ -1,6 +1,4 @@
-/* eslint-disable no-undef */
-/* eslint-disable react-hooks/rules-of-hooks */
-/* eslint-disable no-unused-vars */
+
 import React, { useContext, useState } from 'react'
 import { ShopContext } from '../components/shopcontext'
 import { CiMail } from 'react-icons/ci'
