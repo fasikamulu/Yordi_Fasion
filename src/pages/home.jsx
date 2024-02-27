@@ -124,7 +124,12 @@ const home = () => {
         <div className="card">
           <img src={blog1} className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
-            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+            <h5 className="card-title">Selomon M. Kassa</h5>
+            <p className="card-text">Yordi Fashion is my ultimate style secret. 
+                    As a TV show host, I constantly need to look my best, and Yordi Fashion never fails to deliver.
+                     Their collection of trendy and sophisticated outfits always keeps me ahead of the fashion curve. 
+                     With their impeccable quality and attention to detail, I feel confident and camera-ready every time I step on set.
+                     Thank you, Yordi Fashion, for helping me shine!</p>
             <Link to='about'>
             <button className="mt-4">Learn more</button>
             </Link>
@@ -136,7 +141,13 @@ const home = () => {
         <div className="card">
           <img src={blog2} className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
-            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+           <h5 className="card-title">Girum Ermias</h5>
+           <p className="card-text mb-3">Yordi Fashion has become my fashion sanctuary. 
+                    As an artist and model, I'm always seeking unique and edgy styles that reflect my personality. 
+                    Yordi Fashion's collection never disappoints. From bold prints to avant-garde designs, they embrace the unconventional and push fashion boundaries.
+                     Their commitment to creativity and quality craftsmanship is truly inspiring. 
+                    I'm proud to be a loyal customer of Yordi Fashion.</p>
+                  
             <Link to='about'>
             <button className="mt-4">Learn more</button>
             </Link>
@@ -148,7 +159,12 @@ const home = () => {
         <div className="card">
           <img src={blog3} className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
-            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+            <h5 className="card-title">Etsegenet Seyoum</h5>
+             <p className="card-text mb-3">Yordi Fashion has been my fashion companion on runways across the globe. 
+                    Their collection of high-end fashion pieces perfectly complements my career as an international model. 
+                    The attention to detail and exquisite craftsmanship make each garment a work of art. 
+                    Yordi Fashion's ability to capture elegance and sophistication in every design sets them apart.
+                     Thank you for making me feel like a runway queen!</p>
             <Link to='about'>
             <button className="mt-4">Learn more</button>
             </Link>
@@ -160,7 +176,11 @@ const home = () => {
         <div className="card">
           <img src={blog4} className="card-img-top img-fluid" alt="..." />
           <div className="card-body">
-            <p className="card-text">Some quick example text to build on the card title and make up the bulk of the cards content.</p>
+           <h5 className="card-title">Liya Kebede</h5>
+           <p className="card-text mb-3">Yordi Fashion has become my fashion go-to for late-night glamour. 
+                    As a show host, I need outfits that are stylish, comfortable, and make a statement. 
+                    Yordi Fashion delivers on all fronts. Their collection offers a perfect blend of chic and contemporary designs that perfectly match my on-screen persona. 
+                    With their help, I feel confident and ready to entertain my audience. Thank you, Yordi Fashion!</p>
             <Link to='about'>
             <button className="mt-4">Learn more</button>
             </Link>
